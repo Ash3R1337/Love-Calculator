@@ -1,0 +1,9 @@
+C:\Users\rocks\source\repos\LovaCalc\bin\Release\LovaCalc.exe.config
+C:\Users\rocks\source\repos\LovaCalc\bin\Release\LovaCalc.exe
+C:\Users\rocks\source\repos\LovaCalc\bin\Release\LovaCalc.pdb
+C:\Users\rocks\source\repos\LovaCalc\obj\Release\LovaCalc.csprojAssemblyReference.cache
+C:\Users\rocks\source\repos\LovaCalc\obj\Release\LovaCalc.Form1.resources
+C:\Users\rocks\source\repos\LovaCalc\obj\Release\LovaCalc.Properties.Resources.resources
+C:\Users\rocks\source\repos\LovaCalc\obj\Release\LovaCalc.csproj.GenerateResource.cache
+C:\Users\rocks\source\repos\LovaCalc\obj\Release\LovaCalc.exe
+C:\Users\rocks\source\repos\LovaCalc\obj\Release\LovaCalc.pdb
